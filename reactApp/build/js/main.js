@@ -4,7 +4,7 @@ $(document).on('ready', function () {
     $("#header").load("/components/header.html header"); //load all templates
     initRouterListeners()
     getProductsByLocalStorage(); //check local storage basket
-    setTimeout(() => renderContentByUrl(), 100); //run router
+    setTimeout(() => renderContentByUrl(), 500); //run router
 });
 
 

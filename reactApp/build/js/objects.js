@@ -52,7 +52,7 @@
          title: "Тарта ягідна",
          price: 35,
          value: "200г",
-         photo: "https://lh3.googleusercontent.com/5ue2pzReGVu9jF1kg_HpWhtqmrz236-0-JKUj3X4vOQNYnT_KB5fmnCxn8kaaHn7PGN4ROuDATDL7gMVF8TU2oeHdqv0hM6i0pJDEm3q-KD52WDXDMGPMkEOfuuznosEWUSHMXQ-GdKQBttYRPIzVv53oinD17WJ2QY_26RhabINV-bNmkRMNYf4i8tpmVFingopRmO2X-7M3JqBpfoJsdm3miJ3smPndLLp91MDjNaRQpETg7H1Vc7NS4Wh3nEOAun8AIWo5IVqgomiaJlS8iFCAOBIyfXEilHvguD-IZUcW6w5fVDxZyGUEdeZZmTrlfxXEpTCcO-hz0r3nHpPnMGQbclaw7ICtZQ5wHlq0bHPtFt-e19g3RktR3QwZ6Wo1ucNQ6e9Gv54lTzsQ8cH_PiwgG26F5Yo25ArHLfM-F0sOs1DmqE__QIrnNdB0muAvuvTkpVw_QWZYf88yGtoXWN6AKDhQ1d-L_w1boSU33y1lK6kYptaHAsln30ym8-ME3-TurvXMZ_YDStBUd6AWGAvzXIu-AZTR7WLS2I3PWvMVCz33QFwlWkOy_AqhwaeydLFkhVtKaChWq3oDVXEFQ2bLRGV9D6r97TqnGu5v-eimgVkO6qU-CBtWWJjwrVxYAOmh_xl0Mz1qHA5JhYWp-hblqZDetA=w625-h937-no",
+         photo: "https://i.imgur.com/vc3K2xu.jpg",
          description: "Пісочна тарта з заварним ванільним кремом і свіжими ягодами ",
          type: "desserts"
      }, {
@@ -209,6 +209,12 @@
          id: 25,
          photo: "images/strawberry14.jpg",
          description: "Мікс з 16 полуниць: білий, рожевий, молочний шоколад, горіх, кокос",
+         type:"strawberrybox"
+     }, {
+         price: 450,
+         id: 142,
+         photo: "https://i.imgur.com/g0TTpff.jpg",
+         description: "Полуниця Glitter",
          type:"strawberrybox"
      }, {
          price: 450,
@@ -545,6 +551,14 @@
          description:"Ніжно-блакитний торт з декором із живих квітів"
      },{
          price: 350,
+         id: 140,
+         photo: "https://i.imgur.com/sUts3V2.jpg",
+         decorPrice: 150,
+         type:"cake2",
+         globaltype:"cake",
+         description:"Торт “Космос” з декором із імбирного печива"
+     },{
+         price: 350,
          id: 81,
          photo: "images/torttype2.1.jpg",
          decorPrice: 150,
@@ -552,7 +566,15 @@
          globaltype:"cake",
          description:"Білий торт з декором із свіжих троянд і полуниці"
 
-     }, {
+     },{
+         price: 350,
+         id: 141,
+         photo: "https://i.imgur.com/E6f202B.jpg",
+         decorPrice: 250,
+         type:"cake2",
+         globaltype:"cake",
+         description:"Торт з живими квітами і рафаелло "
+     },{
          price: 350,
          id: 82,
          photo: "images/torttype2.2.jpg",
@@ -699,14 +721,6 @@
          description:"Біло-золотий торт, прикрашений живими квітами"
      }, {
          price: 350,
-         id: 100,
-         photo: "images/torttype2.20.jpg",
-         decorPrice: 150,
-         type:"cake2",
-         globaltype:"cake",
-         description:"Торт “Космос” з декором із імбирного печива"
-     }, {
-         price: 350,
          id: 101,
          photo: "images/torttype2.21.jpg",
          decorPrice: 200,
@@ -721,6 +735,14 @@
          type:"cake2",
          globaltype:"cake",
          description:"Двоповерховий торт, прикрашений живими квітами та імбирним пряником"
+     }, {
+         price: 350 ,
+         id: 102,
+         photo: "images/torttype2.22.jpg",
+         decorPrice: 150,
+         type:"cake2",
+         globaltype:"cake",
+         description:"Торт `Космос`"
      }, {
 
          price: 500,
@@ -809,12 +831,12 @@
          type:"candybar"
      },
      {
-         photo: "https://lh3.googleusercontent.com/w7MYfvmcp9agaDwKq6j7VXWjNKv7gK9JLiePrBxaRt9pwFNC4fBRlsloN8u5ZInAgw9H0zOlYDuBKaawcEXEzY7RMKzWKr08FKfhM7DVMrz-giByWfMNVLo4cUCpDnMhVKYcf9EUI3owLsdRbK5RXdIHgaiqMRJ_C0-9g82BgsyE9qxzZEd1LLwkyELpERKFiNTAzig0MYZ8EAGa7WPxjbSvuGGdo7Yphh3_JemfB-7cSHXMwJOlQ8y7Xjd1ibqHXnFM_jb5w_DNfsqGTP_M32pOZ2ptMIeydZbV2jomNA21Jv_egZXpcK3KvnKJ9riRPr3fFFJmQ7HksIlfcB_nSZ4UgaMdb7di_Il-24Ie6cFkBxbo_U0cj5PRBGuqu1-tlM9IwgcSYhDh_s2eh2L5ERwqGZCo_QvvA3WhFUaOs43zZVF7ETfvOJUBnLeZPff0Fznd_ut9iZLKPdxkS7vmC2dbwtzgjg6nqVPo-4UokVXChkeZqW_hT1I1YtHpazQGXKapovZVcYfx7QQNfyn0-zeZHBMEUo0n5ffkCUL7xmoEgzfa5m7WknxYCfOp6LgdYZ1BOStSyf68ZGQZV9vhV6-osvhRfBryuIEBjd1u_wzTPQSUxE43XBS0e9WBZP3xxtgYhDcROyZeWcXmmeyMLyRmnRYOw7U=w625-h937-no",
+         photo: "https://i.imgur.com/jcC92BN.jpg",
          id: 114,
          type:"candybar"
      },
      {
-         photo: "https://lh3.googleusercontent.com/txiBTMXgd2Ygfm9oJcD6dRn28sWRwC-INhmiPkypCCI9IkKS20AN0mkl_aR5GxDuThYobTLsPOYy53E2rSsGKVPDnFeGC6RB6A3AFuWN7rUkpFaSuqHqvi8RhO8t46qtwMsLj1I7gjppFLxqlrtiHCh8WI3I4UDL7rRcHTjdm8dlyxs0Vd3Kksj0ovFJMkIFiQqOWqpKdCFxa4fXKIuHndNBc1SesWJRnd6yuX1nA0qKounFNnb1qDWPmxycvHToKvBYZnJv8dQUDtLiSwh06y3F8E4fnqHQ7RNW_OpQob9I1jU0iNyl2NQMdMP1IEdn0wrn92li7G1nq9qRiZZWjwXwXUwDiXrcA_tWZ4JjlVhiaY8Y2Q-QNLaGVOjK9IIPYGgUhAnyMqWNJwxOFhujNLUbpyBHWf6CadcVPjIMfPtdIl4GtkT35EpUDC6BiJJ4bmiGy223rcJ9GxvfZ8LVawTZLzmZrmm3KypLNCvwNyGjw6LbBPXn9LecOfKhEvc6ba9ede-Z91NJzpMCoijVMok7KbJQr1YVY4a4hh80huftBbmU6HfDCIRTQMIaKbz-RxTnrhw7KkAXV2FvQkXnuAd-hEkd94Eq71bm5CtCiecwF5R-zvzQvEjTkTx85Vnnvb1ZlFNilPlSxxwCwvdW1JY0zzEBMjM=w625-h937-no",
+         photo: "https://i.imgur.com/ebmKe2F.jpg",
          id: 115,
          type:"candybar"
      },
