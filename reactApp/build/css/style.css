@@ -111,6 +111,7 @@ a {
     border-radius: 14px;
     transition: all .3s;
     position: relative;
+    margin: 17px 29px;
 }
 
 .left-menu ul li a {
@@ -892,19 +893,21 @@ footer li a{
     text-align: center;
 }
 .aboutUs{
-        font-family: 'Caveat', cursive;
+    font-family: 'Caveat', cursive;
     background: rgba(0, 0, 0, .05);
     padding: 0px 20px;
-    text-align: center;
-        margin-top: 71px;
+    margin-top: 71px;
+}
+.aboutUs img:first-child{
+    float: right;
 }
 .aboutUs p{
-        font-size: 26px;
+        font-size: 31px;
 }
 .aboutUs img{
     width: 50%;
     height: 100%;
-    text-align: center;
+
 }
  /*@media screen and (min-width: 769px) {*/
 

@@ -556,7 +556,7 @@
          decorPrice: 150,
          type:"cake2",
          globaltype:"cake",
-         description:"Торт “Космос” з декором із імбирного печива"
+         description:"Торт “Космос”"
      },{
          price: 350,
          id: 81,

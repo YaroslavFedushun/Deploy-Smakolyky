@@ -51,7 +51,9 @@ function router(url){
         case "/dailyandpay":
             renderDescribeTmpl("dailyAndPay", "dishes");
             break;
-
+        case "/contactsTmpl":
+            renderDescribeTmpl("contactsTmpl", "dishes");
+            break;
 
     }
 }
