@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1e37f81-bc01-48c8-a7ea-2ec52db83dd4" name="Default" comment="new products">
+    <list default="true" id="b1e37f81-bc01-48c8-a7ea-2ec52db83dd4" name="Default" comment="new token">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactApp/build/components/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactApp/build/components/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactApp/build/components/templates.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactApp/build/components/templates.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactApp/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/reactApp/build/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactApp/build/js/objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactApp/build/js/objects.js" afterDir="false" />
@@ -37,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reactApp/build/js/objects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            <state relative-caret-position="442">
+              <caret line="386" column="20" lean-forward="true" selection-start-line="386" selection-start-column="20" selection-end-line="386" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -58,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reactApp/build/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="899" column="19" selection-start-line="899" selection-start-column="19" selection-end-line="899" selection-end-column="19" />
+            <state relative-caret-position="213">
+              <caret line="840" column="14" selection-start-line="840" selection-start-column="14" selection-end-line="840" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -67,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reactApp/build/components/templates.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="695" column="10" selection-start-line="695" selection-start-column="10" selection-end-line="695" selection-end-column="10" />
+            <state relative-caret-position="490">
+              <caret line="703" column="49" lean-forward="true" selection-start-line="703" selection-start-column="49" selection-end-line="703" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -77,16 +76,16 @@
         <entry file="file://$PROJECT_DIR$/reactApp/build/components/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reactApp/build/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="502">
-              <caret line="264" column="22" lean-forward="true" selection-start-line="264" selection-start-column="22" selection-end-line="264" selection-end-column="22" />
+              <caret line="264" column="22" selection-start-line="264" selection-start-column="22" selection-end-line="264" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -114,7 +113,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Зворотній дзвінок</find>
       <find>усього</find>
       <find>=)</find>
       <find>del-item-modal dellItem</find>
@@ -144,6 +142,7 @@
       <find>candybar</find>
       <find>dailyandpay</find>
       <find>token</find>
+      <find>aboutUsImgCake</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\User\Desktop\test\reactApp\build\components</dir>
@@ -159,9 +158,9 @@
         <option value="$PROJECT_DIR$/reactApp/build/js/main.js" />
         <option value="$PROJECT_DIR$/reactApp/build/components/header.html" />
         <option value="$PROJECT_DIR$/reactApp/build/js/router.js" />
-        <option value="$PROJECT_DIR$/reactApp/build/components/templates.html" />
-        <option value="$PROJECT_DIR$/reactApp/build/css/style.css" />
         <option value="$PROJECT_DIR$/reactApp/build/components/footer.html" />
+        <option value="$PROJECT_DIR$/reactApp/build/css/style.css" />
+        <option value="$PROJECT_DIR$/reactApp/build/components/templates.html" />
         <option value="$PROJECT_DIR$/reactApp/build/js/objects.js" />
       </list>
     </option>
@@ -262,7 +261,8 @@
       <workItem from="1550513330877" duration="4550000" />
       <workItem from="1550595891883" duration="16000" />
       <workItem from="1550755657533" duration="1407000" />
-      <workItem from="1550767824293" duration="596000" />
+      <workItem from="1550767824293" duration="815000" />
+      <workItem from="1550772800853" duration="2472000" />
     </task>
     <task id="LOCAL-00001" summary="new products">
       <created>1550514452739</created>
@@ -278,17 +278,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550584049582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new token">
+      <created>1550768443080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550768443080</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51265000" />
+    <option name="totallyTimeSpent" value="53956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2813488" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11485775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -300,7 +307,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.27813852" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.033549782" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -373,7 +380,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new products" />
-    <option name="LAST_COMMIT_MESSAGE" value="new products" />
+    <MESSAGE value="new token" />
+    <option name="LAST_COMMIT_MESSAGE" value="new token" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/server.js">
@@ -415,6 +423,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/reactApp/build/components/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reactApp/build/components/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1751">
@@ -425,38 +440,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/reactApp/build/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="264" column="22" selection-start-line="264" selection-start-column="22" selection-end-line="264" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reactApp/build/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="899" column="19" selection-start-line="899" selection-start-column="19" selection-end-line="899" selection-end-column="19" />
+        <state relative-caret-position="213">
+          <caret line="840" column="14" selection-start-line="840" selection-start-column="14" selection-end-line="840" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reactApp/build/components/templates.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="695" column="10" selection-start-line="695" selection-start-column="10" selection-end-line="695" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactApp/build/components/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="490">
+          <caret line="703" column="49" lean-forward="true" selection-start-line="703" selection-start-column="49" selection-end-line="703" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reactApp/build/js/objects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reactApp/build/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="264" column="22" lean-forward="true" selection-start-line="264" selection-start-column="22" selection-end-line="264" selection-end-column="22" />
+        <state relative-caret-position="442">
+          <caret line="386" column="20" lean-forward="true" selection-start-line="386" selection-start-column="20" selection-end-line="386" selection-end-column="20" />
         </state>
       </provider>
     </entry>

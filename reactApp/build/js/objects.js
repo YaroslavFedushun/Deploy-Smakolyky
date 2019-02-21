@@ -120,191 +120,184 @@
      }, {
          id: 13,
          
-         price: 250,
+         price: 300,
          description: "Набір полуниць зі смаком орео, білого шоколаду та грецького горіху",
          photo: "images/strawberry0.jpg",
          type:"strawberrybox"
 
      }, {
-         price: 250,
+         price: 300,
          id: 14,
          photo: "images/strawberry1.jpg",
          description: "Набір полуниць зі смаком грецького горіху, кокосу та печива Орео",
          type:"strawberrybox"
      }, {
-         price: 250,
+         price: 300,
          id: 15,
          photo: "images/strawberry2.jpg",
          description: "Мікс смаків: молочний шоколад, грецький горіх, орео, кокос, білий шоколад, ванільне печиво та какао",
          type:"strawberrybox"
      },
      {
-         price: 250,
+         price: 300,
          id: 16,
          photo: "images/strawberry3.jpg",
          description: "Набір полуниць зі смаком орео, молочного шоколаду та кокосу",
          type:"strawberrybox"
      }, {
-         price: 250,
+         price: 300,
          id: 17,
          photo: "images/strawberry4.jpg",
          description: "Мікс смаків: молочний шоколад, грецький горіх, орео, кокос, білий шоколад, ванільне печиво",
          type:"strawberrybox"
      }, {
-         price: 250,
+         price: 300,
          id: 18,
          photo: "images/strawberry5.jpg",
          description: "Мікс смаків: кокос, молочний шоколад,білий шоколад,  грецький горіх, какао",
          type:"strawberrybox"
      }, {
-         price: 250,
+         price: 300,
          id: 19,
          photo: "images/strawberry6.jpg",
          description: "Набір полуниць у білому, молочному та рожевому шоколаді",
          type:"strawberrybox"
      }, {
-         price: 250,
+         price: 300,
          id: 20,
          photo: "images/strawberry7.jpg",
          description: "Набір полуниць у білому, молочному шоколаді та кокосі",
          type:"strawberrybox"
      }, {
-         price: 250,
+         price: 300,
          id: 21,
          photo: "images/strawberry8.jpg",
          description: "Мікс смаків: орео, білий та молочний шоколад, рожевий шоколад, горіх, кокос та орео",
          type:"strawberrybox"
      }, {
-         price: 250,
+         price: 300,
          id: 22,
          photo: "images/strawberry9.jpg",
          description: "Набір полуниць у білому та чорному шоколаді",
          type:"strawberrybox"
      }, {
-         price: 280,
+         price: 350,
          id: 130,
          photo: "images/strawberry10.jpg",
          description: "Мікс з 10 полуниць у круглій коробці: білий, рожевий, молочний, чорний шоколад, горіх, кокос",
          type:"strawberrybox"
      }, {
-         price: 280,
+         price: 350,
          id: 131,
          photo: "images/strawberry11.jpg",
          description: "Мікс з 10 полуниць у круглій коробці: білий, рожевий, молочний, чорний шоколад, горіх, кокос",
          type:"strawberrybox"
      }, {
-         price: 280,
+         price: 350,
          id: 23,
          photo: "images/strawberry12.jpg",
          description: "Мікс з 10 полуниць у деревяній  коробці: білий, рожевий, молочний, чорний шоколад, горіх, кокос",
          type:"strawberrybox"
      }, {
-         price: 280,
+         price: 350,
          id: 24,
          photo: "images/strawberry13.jpg",
          description: "Набір полуниць у рожевому шоколаді",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 500,
          id: 25,
          photo: "images/strawberry14.jpg",
          description: "Мікс з 16 полуниць: білий, рожевий, молочний шоколад, горіх, кокос",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 500,
          id: 142,
          photo: "https://i.imgur.com/g0TTpff.jpg",
          description: "Полуниця Glitter",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 500,
          id: 26,
          photo: "images/strawberry15.jpg",
          description: "Набір з 16 полуниць: грецький горіх, орео, кокос, рожевий шоколад з присипкою",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 500,
          id: 27,
          description: "Набір з 16 полуниць “Градієнт”",
          photo: "images/strawberry16.jpg",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 650,
          id: 28,
          photo: "images/strawberry17.jpg",
          description: "Мікс з 20 полуниць: білий, рожевий, молочний шоколад, горіх, кокос",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 650,
          id: 29,
          photo: "images/strawberry18.jpg",
          description: "Набір з 20 полуниць у чорному шоколаді, з горіхами та какао",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 650,
          id: 30,
          photo: "images/strawberry19.jpg",
          description: "Набір з 20 полуниць у чорному шоколаді, з горіхами та какао",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 650,
          id: 31,
          photo: "images/strawberry20.jpg",
          description: "Набір з 20 полуниць: грецький горіх, білий шоколад, кокос, молочний шоколад з поливкою",
          type:"strawberrybox"
      }, {
-         price: 450,
-         id: 32,
-         photo: "images/strawberry21.jpg",
-         description: "???????????????????????????????????????",
-         type:"strawberrybox"
-     }, {
-         price: 450,
+         price: 650,
          id: 33,
          photo: "images/strawberry22.jpg",
          description: "Набір з 20 полуниць: рожевий шоколад, кокос, чорний шоколад вкритий золотом, білий шоколад.",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 650,
          id: 34,
          photo: "images/strawberry23.jpg",
          description: "Набір з 16 полуниць: молочний шоколад, орео, горіх, кокос",
          type:"strawberrybox"
      }, {
-         price: 450,
+         price: 650,
          id: 35,
          photo: "images/strawberry24.jpg",
          description: "Набір з 16 полуниць у чорному шоколаді, з горіхами та какао",
          type:"strawberrybox"
      }, {
-         price: 550,
+         price: 650,
          id: 36,
          photo: "images/strawberry25.jpg",
          description: "Набір з 25 полуниць: молочний шоколад з білою поливкою, кокос, рожевий шоколад з поливкою, білий шоколад з посипкою",
          type:"strawberrybox"
      }, {
-         price: 550,
+         price: 650,
          id: 37,
          photo: "images/strawberry26.jpg",
          description: "Набір з 25 полуниць: молочний, білий шоколад, горіх, кокос, какао",
          type:"strawberrybox"
      }, {
-         price: 550,
+         price: 650,
          id: 38,
          photo: "images/strawberry27.jpg",
          description: "Набір з 30 полуниць: какао, ванільне печиво, орео, кокос, горіх",
          type:"strawberrybox"
      }, {
-         price: 550,
+         price: 650,
          id: 39,
          photo: "images/strawberry28.jpg",
          description: "Набір з 25 полуниць: молочний шоколад з поливкою, кокос, фісташка, рожевий шоколад, ванільне печиво",
          type:"strawberrybox"
      }, {
          id: 40,
-         title: "Букети",
          price: 675,
-         description: "Свіжа Полуниця в Бельгійському шоколаді в поєднані з горіхом, кокосом, печевом орео",
+         description: "Букет з 25 полуниць white pink black",
          photo: "images/flower1.jpg",
          type:"strawberryflower"
 
@@ -312,19 +305,19 @@
          price: 750,
          id: 41,
          photo: "images/flower4.jpg",
-         description: "Свіжа полуниця в бельгійському шоколаді в поєднанні з грецьким горіхом, кокосом та печивом Oreo",
+         description: "Букет Мікс",
          type:"strawberryflower"
      }, {
          price: 650,
          id: 42,
          photo: "images/flower3.jpg",
-         description: "Свіжа полуниця в бельгійському шоколаді в поєднанні з грецьким горіхом, кокосом та печивом Oreo",
+         description: "Букет з 25 полуниць ",
          type:"strawberryflower"
      }, {
          price: 500,
          id: 43,
          photo: "images/flower2.jpg",
-         description: "Свіжа полуниця в бельгійському шоколаді в поєднанні з грецьким горіхом, кокосом та печивом Oreo",
+         description: "Букет з 20 полуниць",
          type:"strawberryflower"
      }, {
          id: 44,
