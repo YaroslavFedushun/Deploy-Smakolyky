@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1e37f81-bc01-48c8-a7ea-2ec52db83dd4" name="Default" comment="new token">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactApp/build/components/templates.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactApp/build/components/templates.html" afterDir="false" />
-    </list>
+    <list default="true" id="b1e37f81-bc01-48c8-a7ea-2ec52db83dd4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -64,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reactApp/build/components/templates.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="569" column="13" selection-start-line="569" selection-start-column="13" selection-end-line="569" selection-end-column="13" />
+            <state relative-caret-position="126">
+              <caret line="563" lean-forward="true" selection-start-line="563" selection-end-line="563" />
             </state>
           </provider>
         </entry>
@@ -163,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="4" />
     <option name="y" value="8" />
     <option name="width" value="1620" />
@@ -260,7 +257,7 @@
       <workItem from="1550595891883" duration="16000" />
       <workItem from="1550755657533" duration="1407000" />
       <workItem from="1550767824293" duration="815000" />
-      <workItem from="1550772800853" duration="3716000" />
+      <workItem from="1550772800853" duration="3771000" />
     </task>
     <task id="LOCAL-00001" summary="new products">
       <created>1550514452739</created>
@@ -297,17 +294,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550855016907</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new token">
+      <created>1550855682445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550855682445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55200000" />
+    <option name="totallyTimeSpent" value="55255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11485775" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11485775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -319,7 +323,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5032467" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5032467" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -475,8 +479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reactApp/build/components/templates.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="569" column="13" selection-start-line="569" selection-start-column="13" selection-end-line="569" selection-end-column="13" />
+        <state relative-caret-position="126">
+          <caret line="563" lean-forward="true" selection-start-line="563" selection-end-line="563" />
         </state>
       </provider>
     </entry>
