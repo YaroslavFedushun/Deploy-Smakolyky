@@ -728,15 +728,7 @@
          type:"cake2",
          globaltype:"cake",
          description:"Двоповерховий торт, прикрашений живими квітами та імбирним пряником"
-     }, {
-         price: 350 ,
-         id: 102,
-         photo: "images/torttype2.22.jpg",
-         decorPrice: 150,
-         type:"cake2",
-         globaltype:"cake",
-         description:"Торт `Космос`"
-     }, {
+     },  {
 
          price: 500,
          photo: "images/torttype1.1.jpg",
