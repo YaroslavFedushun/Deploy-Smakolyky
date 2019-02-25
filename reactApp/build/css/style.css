@@ -709,6 +709,10 @@ div .PageMails {
 .products {
     margin-bottom: 30px;
 }
+    .strawTitle{
+        float:right;
+        padding-bottom: 138px;
+    }
 .form-style-5 {
     max-width: 500px;
     padding: 10px 20px;
@@ -838,8 +842,12 @@ div .PageMails {
     margin: 0px 20px 0px 0px;
 }
 .aboutUsImgCake{
-    padding:25px 35px 0px 0px ;
-
+    padding:25px 35px 50px 0px ;
+    float: left;
+}
+.cakeTitle{
+    float: right ;
+    padding:100px 0px  33px 20px;
 }
 .dropdownMenuBurger{
     background: none;
@@ -999,11 +1007,25 @@ footer li a{
     .PageLinks ul li {
         font-size: 28px;
     }
-    
+    .aboutUsImgCake{
+        padding:0px ;
+        float: left;
+    }
+    .aboutUs img {
+        width: 100%;
+        height: 100%;
+    }
+    .strawTitle{
+        float:none;
+        padding-bottom: 18px;
+    }
     .phone-logo {
         height: 100px;
     }
-
+    .cakeTitle{
+        float: right ;
+        padding:10px 0px  0px 0px;
+    }
     .cakes-inform {
         margin-top: 30px;
     }
@@ -1014,6 +1036,11 @@ footer li a{
     .WeddingCakeState img{
      width: 100%;
      height: 100%;
+        margin: unset;
+    }
+    .WeddingCakeState p {
+        font-size: 26px;
+         margin-top: unset;
     }
     .img-layaut img {
         height: 172px;
@@ -1032,10 +1059,7 @@ footer li a{
         .aboutUs p {
             font-size: 24px;
         }
-        .aboutUs img {
-            width: 100%;
-            height: 100%;
-        }
+
 
     }
     
